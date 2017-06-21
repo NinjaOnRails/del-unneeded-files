@@ -1,0 +1,1 @@
+Deletes all files AND folders of certain size in KB.
